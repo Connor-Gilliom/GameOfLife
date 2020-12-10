@@ -1,0 +1,11 @@
+C:\Users\Connor Gilliom\OneDrive - Purdue University Fort Wayne\PFW\PFW 2020-Fall\CS 114\workspace\ConnorGilliom_Final\ConnorGilliom_Final\bin\Debug\ConnorGilliom_Final.exe
+C:\Users\Connor Gilliom\OneDrive - Purdue University Fort Wayne\PFW\PFW 2020-Fall\CS 114\workspace\ConnorGilliom_Final\ConnorGilliom_Final\bin\Debug\ConnorGilliom_Final.pdb
+C:\Users\Connor Gilliom\OneDrive - Purdue University Fort Wayne\PFW\PFW 2020-Fall\CS 114\workspace\ConnorGilliom_Final\ConnorGilliom_Final\obj\x86\Debug\ConnorGilliom_Final.SelectStartingPoints.resources
+C:\Users\Connor Gilliom\OneDrive - Purdue University Fort Wayne\PFW\PFW 2020-Fall\CS 114\workspace\ConnorGilliom_Final\ConnorGilliom_Final\obj\x86\Debug\ConnorGilliom_Final.Setup.resources
+C:\Users\Connor Gilliom\OneDrive - Purdue University Fort Wayne\PFW\PFW 2020-Fall\CS 114\workspace\ConnorGilliom_Final\ConnorGilliom_Final\obj\x86\Debug\ConnorGilliom_Final.Properties.Resources.resources
+C:\Users\Connor Gilliom\OneDrive - Purdue University Fort Wayne\PFW\PFW 2020-Fall\CS 114\workspace\ConnorGilliom_Final\ConnorGilliom_Final\obj\x86\Debug\ConnorGilliom_Final.csproj.GenerateResource.Cache
+C:\Users\Connor Gilliom\OneDrive - Purdue University Fort Wayne\PFW\PFW 2020-Fall\CS 114\workspace\ConnorGilliom_Final\ConnorGilliom_Final\obj\x86\Debug\ConnorGilliom_Final.exe
+C:\Users\Connor Gilliom\OneDrive - Purdue University Fort Wayne\PFW\PFW 2020-Fall\CS 114\workspace\ConnorGilliom_Final\ConnorGilliom_Final\obj\x86\Debug\ConnorGilliom_Final.pdb
+C:\Users\Connor Gilliom\OneDrive - Purdue University Fort Wayne\PFW\PFW 2020-Fall\CS 114\workspace\ConnorGilliom_Final\ConnorGilliom_Final\obj\x86\Debug\ConnorGilliom_Final.About.resources
+C:\Users\Connor Gilliom\OneDrive - Purdue University Fort Wayne\PFW\PFW 2020-Fall\CS 114\workspace\ConnorGilliom_Final\ConnorGilliom_Final\obj\x86\Debug\ConnorGilliom_Final.Game.resources
+C:\Users\Connor Gilliom\OneDrive - Purdue University Fort Wayne\PFW\PFW 2020-Fall\CS 114\workspace\ConnorGilliom_Final\ConnorGilliom_Final\obj\x86\Debug\ConnorGilliom_Final.csprojResolveAssemblyReference.cache
